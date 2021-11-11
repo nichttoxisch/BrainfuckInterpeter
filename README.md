@@ -6,5 +6,5 @@ A simple life interpeter for the [Brainfuck programming language](https://en.wik
 Usage:
 ```bash
 cargo build {--releases}
-./target/{debug, release}/brainfuck_interpeter HelloWorld.exe
+./target/{debug, release}/brainfuck_interpeter HelloWorld.bf
 ```
